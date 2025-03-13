@@ -1,0 +1,9 @@
+/* General styles */
+.home-component {
+    width: 100%; /* Ensure there's enough height to center vertically */
+    height: 100vh;;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+  }
+
